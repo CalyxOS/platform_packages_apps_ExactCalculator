@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2023 The LineageOS Project
+     SPDX-FileCopyrightText: The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <com.android.calculator2.DisplayMotionLayout
@@ -17,7 +17,7 @@
         android:id="@+id/history_frame"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:background="@color/display_background_color"
+        android:background="@color/history_background_color"
         app:layout_constraintBottom_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
